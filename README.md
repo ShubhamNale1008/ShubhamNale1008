@@ -3,6 +3,8 @@
 <!-- Neon Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4DEEEA&center=true&width=500&lines=👨‍💻+My+name+is+Shubham+Nale;🚀+Computer+Science+Student;⚡+Passionate+about+Coding;🌙+Turning+ideas+into+reality)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=B721FF&center=true&width=500&lines=👨‍💻+My+name+is+Shubham+Nale;🚀+Computer+Science+Student;⚡+Passionate+about+Coding;🌙+Turning+ideas+into+reality)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4DEEEA&center=true&width=500&lines=👨‍💻+My+name+is+Shubham+Nale;🚀+Computer+Science+Student;⚡+Passionate+about+Coding;🌙+Turning+ideas+into+reality)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F724C8&center=true&width=500&lines=👨‍💻+My+name+is+Shubham+Nale;🚀+Computer+Science+Student;⚡+Passionate+about+Coding;🌙+Turning+ideas+into+reality)
 <!-- Cool Coding Sticker -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
