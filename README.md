@@ -1,11 +1,25 @@
-# 💫 About Me:
-💫 About Me:<br>🚀 Engineering student passionate about coding and problem-solving<br>💻 Love building clean, simple, and practical projects<br>🌱 Constantly learning new technologies and improving skills<br>🧠 Curious mindset with a focus on strong fundamentals<br>⚡ Turning ideas into code, one project at a time
+<div align="center">
 
 <!-- Neon Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=500&lines=👨‍💻+My+name+is+Shubham+Nale;🚀+Computer+Science+Student;⚡+Passionate+about+Coding;🌙+Turning+ideas+into+reality)
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
+<!-- Cool Coding Sticker -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
+</div>
+
+---
+
+## 💫 About Me
+
+🚀 Engineering student passionate about coding and problem-solving<br/>
+💻 Love building clean, simple, and practical projects<br/>
+🌱 Constantly learning new technologies and improving skills<br/>
+🧠 Curious mindset with a focus on strong fundamentals<br/>
+⚡ Turning ideas into code, one project at a time
+
+---
+   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_shubh1008) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-nale-235802331/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamnale1008@gmail.com) 
 
