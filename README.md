@@ -1,5 +1,6 @@
 # 💫 About Me:
 💫 About Me:<br>🚀 Engineering student passionate about coding and problem-solving<br>💻 Love building clean, simple, and practical projects<br>🌱 Constantly learning new technologies and improving skills<br>🧠 Curious mindset with a focus on strong fundamentals<br>⚡ Turning ideas into code, one project at a time
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 
 ## 🌐 Socials:
