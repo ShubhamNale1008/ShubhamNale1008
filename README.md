@@ -1,6 +1,46 @@
 # 💫 About Me:
 💫 About Me:<br>🚀 Engineering student passionate about coding and problem-solving<br>💻 Love building clean, simple, and practical projects<br>🌱 Constantly learning new technologies and improving skills<br>🧠 Curious mindset with a focus on strong fundamentals<br>⚡ Turning ideas into code, one project at a time
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<div align="center">
+
+<!-- Neon Wave Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:7b2ff7&height=200&section=header&text=Hey%20There!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn)
+
+<!-- Cool Coding Sticker -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+<!-- Neon Typing Animation -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=500&lines=👨‍💻+I+am+a+Student+Developer;🚀+Always+Learning+New+Things;⚡+Passionate+about+Coding;🌙+Turning+ideas+into+reality)
+
+---
+
+### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_color=00f7ff)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff)
+
+---
+
+<!-- Snake Animation -->
+![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Neon Wave Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00f7ff&height=120&section=footer)
+
+</div>
+
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 
 ## 🌐 Socials:
