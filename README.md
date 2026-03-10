@@ -66,19 +66,11 @@
 
 ---
 
-## 📊 GitHub Profile Summary
+## 📊 GitHub Contribution Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamNale1008&theme=github_dark" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamNale1008&theme=github_dark"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamNale1008&theme=github_dark"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamNale1008&theme=github_dark&utcOffset=5.5"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamNale1008&show=reviews,discussions_started,prs_merged,prs_merged_percentage&custom_title=Contribution+Overview&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide_rank=true"/>
 
 </div>
 
@@ -119,7 +111,7 @@
 
 <br/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=ShubhamNale1008&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamNale1008&show=reviews,discussions_started,prs_merged,prs_merged_percentage&custom_title=Contributions&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide_rank=true"/>
 
 </div>
 
