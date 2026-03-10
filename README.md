@@ -93,9 +93,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamNale1008&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-virid-ten.vercel.app/api?username=ShubhamNale1008&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&cache_seconds=3600"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamNale1008&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&cache_seconds=1800"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ShubhamNale1008&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-virid-ten.vercel.app/api/top-langs/?username=ShubhamNale1008&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&cache_seconds=3600"/>
 
 </div>
 
@@ -105,7 +109,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamNale1008&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamNale1008&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
