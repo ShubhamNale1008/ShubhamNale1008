@@ -66,11 +66,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Profile Summary
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamNale1008&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamNale1008&theme=github_dark" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamNale1008&theme=github_dark"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamNale1008&theme=github_dark"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShubhamNale1008&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
