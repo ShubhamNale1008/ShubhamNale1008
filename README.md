@@ -119,7 +119,7 @@
 
 <br/>
 
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=ShubhamNale1008&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ShubhamNale1008&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"/>
 
 </div>
 
