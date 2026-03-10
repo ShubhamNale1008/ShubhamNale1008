@@ -66,17 +66,7 @@
 
 ---
 
-## 📊 GitHub Contribution Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamNale1008&show=reviews,discussions_started,prs_merged,prs_merged_percentage&custom_title=Contribution+Overview&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide_rank=true"/>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 <div align="center">
 
@@ -109,9 +99,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamNale1008&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
 </a>
 
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamNale1008&show=reviews,discussions_started,prs_merged,prs_merged_percentage&custom_title=Contributions&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&hide_rank=true"/>
 
 </div>
 
