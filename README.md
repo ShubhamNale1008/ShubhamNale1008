@@ -93,12 +93,9 @@
 
 <div align="center">
 
-<a href="https://github.com/ShubhamNale1008">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamNale1008&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamNale1008&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
-</a>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamNale1008&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamNale1008&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&cache_seconds=1800"/>
 
 </div>
 
