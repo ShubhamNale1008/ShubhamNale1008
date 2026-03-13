@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D2137,70:0D1B2A,100:0D1117&height=240&section=header&text=Shubham%20Nale&fontSize=92&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=20&descColor=8B949E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:10233F,70:132A4A,100:0B1220&height=240&section=header&text=Shubham%20Nale&fontSize=90&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Builder&descAlignY=60&descSize=19&descColor=9FB3C8" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=Hey+there%2C+I'm+Shubham+Nale+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Passionate+Developer+%F0%9F%92%BB;Full-Stack+%26+Cloud+Explorer+%E2%98%81%EF%B8%8F;Clean+Code+Enthusiast+%E2%9C%A8;Turning+Ideas+into+Reality+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&random=false&width=680&lines=Hey+there%2C+I'm+Shubham+Nale+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Passionate+Developer+%F0%9F%92%BB;Full-Stack+%26+Cloud+Explorer+%E2%98%81%EF%B8%8F;Clean+Code+Enthusiast+%E2%9C%A8;Turning+Ideas+into+Reality+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ShubhamNale1008&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/ShubhamNale1008)
+[![Profile Views](https://komarev.com/ghpvc/?username=ShubhamNale1008&label=Profile%20Views&color=1f6feb&style=for-the-badge)](https://github.com/ShubhamNale1008)
 
 </div>
 
@@ -66,7 +66,7 @@
 
 ---
 
-## ️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -93,13 +93,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-virid-ten.vercel.app/api?username=ShubhamNale1008&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&cache_seconds=3600"/>
+<img height="180em" src="https://github-readme-stats-virid-ten.vercel.app/api?username=ShubhamNale1008&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B1220&title_color=8AB4F8&text_color=A9B8C9&icon_color=8AB4F8&cache_seconds=3600"/>
 &nbsp;
-<img height="180em" src="https://streak-stats.demolab.com?user=ShubhamNale1008&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=ShubhamNale1008&theme=dark&hide_border=true&background=0B1220&stroke=8AB4F8&ring=8AB4F8&fire=8AB4F8&currStreakNum=A9B8C9&sideNums=A9B8C9&currStreakLabel=8AB4F8&sideLabels=8AB4F8&dates=A9B8C9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-virid-ten.vercel.app/api/top-langs/?username=ShubhamNale1008&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&cache_seconds=3600"/>
+<img src="https://github-readme-stats-virid-ten.vercel.app/api/top-langs/?username=ShubhamNale1008&layout=compact&theme=github_dark&hide_border=true&bg_color=0B1220&title_color=8AB4F8&text_color=A9B8C9&cache_seconds=3600"/>
 
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamNale1008&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamNale1008&theme=react-dark&bg_color=0B1220&color=8AB4F8&line=8AB4F8&point=E6EDF3&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -145,6 +145,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0D2137,70:0D1B2A,100:0D1117&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,35:10233F,70:132A4A,100:0B1220&height=130&section=footer" width="100%"/>
 
 </div>
